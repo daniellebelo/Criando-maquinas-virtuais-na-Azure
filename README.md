@@ -35,3 +35,6 @@ Depois clique em **"Criar"**
 
 - Aguarde alguns segundos/minutos
 - Após a criação, clique em **"Ir para o recurso"**
+
+- ![Captura de tela da VM](images/Lab1.png)
+
