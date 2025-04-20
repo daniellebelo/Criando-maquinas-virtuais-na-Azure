@@ -19,10 +19,10 @@ SLA = Service Level Agreement está relacionado a medida em que o fornecedor de 
 
 Propriedades de Cloud
 
-Alta disponibilidade
-Escalabilidade
-Confiabilidade
-Previsibilidade
-Segurança
-Governança
+Alta disponibilidade;
+Escalabilidade;
+Confiabilidade;
+Previsibilidade;
+Segurança;
+Governança;
 Gerenciabilidade
